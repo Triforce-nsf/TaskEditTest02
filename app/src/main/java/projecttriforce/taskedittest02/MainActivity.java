@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
     public void DateTapped(View view) {
         Intent intent = new Intent(this, projecttriforce.taskedittest02.DatePickerT.class);
         startActivity(intent);
-
     }
 
     public void Get(View view){
